@@ -1,6 +1,6 @@
 # About Me
 <div align="center">
-  <img height="500" src="https://media.giphy.com/media/jznAgep3V1XkeXeXm3/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/jznAgep3V1XkeXeXm3/giphy.gif"  />
 </div>
 
 ###
