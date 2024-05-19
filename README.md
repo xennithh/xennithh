@@ -1,11 +1,11 @@
 # About Me
 <h2> Hi, I'm Mijael! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media2.giphy.com/media/XdUr7e0X1Kjeg/giphy.gif?cid=ecf05e47lt5b12equ4az5y3o4pbhvql2w6fednpsp7dp46n9&rid=giphy.gif&ct=g" width="230">
-<p><em>Student at <a href="https://qnu.edu.vn/">University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="[https://aikocute.com](https://konect.gg/xenitt)">xennithz</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="https://media.giphy.com/media/aH7XS1RNKEDEdAtLLu/giphy.gif" width="230">
+
+<p><em>Student at <a href="https://www.senati.edu.pe/">University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://konect.gg/xenitt"> xenitth </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![](https://img.shields.io/badge/MyZalo-@AikoCuteZalo-blue.svg)](https://zalo.me/0368629364)
-[![](https://img.shields.io/badge/MyTele-@Tele_Aiko-blue.svg)](https://t.me/Tele_Aiko)
+[![]https://img.shields.io/badge/MyInst-%40Rynhexk-slateblue.svg](https://www.instagram.com/rynhexk/)
 
 
 
@@ -33,18 +33,27 @@
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)
-##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Github-Aiko" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Github-Aiko&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = "35px" />
+
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xennithh&theme=material-palenight&hide_border=&border_radius=5" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
-**Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Github-Aiko&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Github-xennithh&show_icons=true" />xennithh
+
+
 </details>
+
+<!-- GitHub section: END -->
+
+<!-- Profile Views -->
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xennithh" alt="isrealodejobi" />
+</p>
+<!-- THE END -->
+
 
 <!-- GitHub section: END -->
 
