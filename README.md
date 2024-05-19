@@ -1,11 +1,17 @@
 # About Me
+<div align="center">
+  <img height="500" src="https://media.giphy.com/media/jznAgep3V1XkeXeXm3/giphy.gif"  />
+</div>
+
+###
 <h2> Hi, I'm Mijael! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/aH7XS1RNKEDEdAtLLu/giphy.gif" width="230">
 
 <p><em>Student at <a href="https://www.senati.edu.pe/">University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://konect.gg/xenitt"> xenitth </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![](https://img.shields.io/badge/MyInst-%40Rynhexk-slateblue.svg)](https://www.instagram.com/rynhexk/)
+[![]https://img.shields.io/badge/MyInst-%40Rynhexk-slateblue.svg](https://www.instagram.com/rynhexk/)
+[![](https://img.shields.io/badge/MyZalo-@AikoCuteZalo-blue.svg)](https://zalo.me/0368629364)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -53,12 +59,3 @@
 </p>
 <!-- THE END -->
 
-
-<!-- GitHub section: END -->
-
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Github-Aiko&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
-<!-- THE END -->
